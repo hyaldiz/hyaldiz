@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huseyin YALDIZ</h1>
 <h3 align="center">A passionate Embedded Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **an Embedded Linux project.**
+- 🔭 I’m currently working with Embedded Systems**
 
-- 🌱 I’m currently learning **Design Patterns, Networking**
+- 🌱 I’m currently busy with **YocTo Project**
 
-- 💬 Ask me about **C,C++,Qt,Microcontrollers**
+- 💬 Ask me about **C,C++,Qt,Microcontrollers,Linux**
 
 - 📫 How to reach me **contact@huseyinyaldiz.com**
 
